@@ -36,7 +36,11 @@ Navigation
 Stack Navigator: Utilizes a stack navigator for managing navigation between the home and cart screens.
 
 
+
+
 #screenshots
+
+
 ![1](https://github.com/Stephenamankwa/rn-assignment6-11039578/assets/160183785/d1586992-f460-4970-994c-81c9d9ea70b7)
 ![2](https://github.com/Stephenamankwa/rn-assignment6-11039578/assets/160183785/d07e2f3e-86cb-4c2d-b45c-9b7929e19dbf)
 
